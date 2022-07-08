@@ -1,0 +1,8 @@
+bin/
+lib/
+ven/
+venv/
+pyvenv.cfg
+__pycache__/
+flaskapp/__pycache__/__init__.cpython-37.pyc
+flaskapp/__pycache__/routes.cpython-37.pyc

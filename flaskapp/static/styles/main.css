@@ -1,0 +1,119 @@
+body{
+  background-color: red;
+}
+nav{
+background-color: #1b1f25;
+}
+.container-fluid {
+  padding:0 10%;
+}
+.navbar-brand{
+  font-family: 'Spacegrotesk';
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #1b1f25;
+}
+
+#intro{
+padding: 10% 10% 0 10%;
+background-color: #1b1f25;
+min-height: 85vh;
+color:white;
+background-image: url(../img/profile.png);
+background-repeat: no-repeat;
+background-size:contain;
+background-position:center;
+}
+#skills{
+  background-color: #232830;
+  color: white;
+  height: 110vh;
+  padding: 10% 10% 0 10%;
+}
+.cards-wrapper{
+  display:flex;
+
+}
+.card{
+  background-color: grey;
+  border-radius: 35px;
+  margin:0.5em;
+  width: 33%;
+
+}
+#education{
+  background-color: #1b1f25;
+  height: 100vh;
+  padding: 10% 10% 0 10%;
+  color: white;
+}
+#exp{
+  background-color: #1b1f25;
+  height: 100vh;
+  color: white;
+  padding: 10% 10% 0 10%;
+
+}
+
+footer{
+  background-color: #232830;
+  color: white;
+  padding: 10% 5% 0 5%;
+}
+
+footer a{
+  text-decoration: none;
+  color: white;
+}
+
+footer nav{
+
+    background-color: #232830;
+}
+footer i{
+font-size: 2em;
+padding-right:20px;
+}
+
+.fimage{
+  width: 20vh;
+  height: 20vh;
+  background-color: #1b1f25;
+
+}
+/* Adjustments for small screen sizes*/
+@media (max-width: 768px) {
+
+    #intro{
+      padding:3% 0 0 3%;
+      margin:0;
+      background-image:none;
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-position:center;
+      background-attachment: scroll;
+      }
+    }
+@media (max-width: 978px) {
+    #intro{
+      padding:3% 0 0 3%;
+      margin:0;
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-position:center;
+      background-attachment: scroll;
+      }
+    }
+    .fimage{
+      width: 10vh;
+      height: 10vh;
+      background-color: #1b1f25;
+
+    }
+    footer{
+      background-color: #232830;
+      color: white;
+      padding: 10% 1% 0 1%;
+    }
+
+}

@@ -1,0 +1,163 @@
+<section id="intro" >
+  <div class="container">
+      <div class="row">
+    <div class="col-lg-6 col">
+      <h1 class="display-4 pt-5 mt-5 font-weight-bold"">
+            I'm Raman, a
+            Web developer
+				</h1>
+				<p class=" text-justify">I code websites for fun. Lorem ipsum dolor sit amet consectetur adipiscing elit leo quis ullamcorper quis id elementum convallis lacus gravida. </p>
+    </div>
+    <div class="col-lg-2 col-md-1 col-sm-0 "></div>
+    <div class="col">
+      <div class="row ">
+        <div class="col pt-5 ">
+          <hr class="d-lg-none" style="height:1px;border-width:0;color:grey;background-color:grey">
+          <h4>ABOUT ME</h4>
+          <p class="pt-2 text-justify"> Lorem ipsum dolor sit amet consectetur adipiscing elit leo quis ullamcorper quis id elementum convallis lacus gravida. </p>
+        </div>
+        <div class="w-100 pt-lg-5">
+          <hr style="height:1px; width:94%;border-width:0;color:grey;background-color:grey">
+        </div>
+        <div class="col pt-lg-5 ">
+          <h4>MY WORK</h4>
+          <p class="pt-2 text-justify"> Purus ut faucibus pulvinar elementum integer enim neque fermentum iaculis eu non diam phasellus dolor consectur.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </div>
+  <div class="d-sm-none d-block pb-0 row text-center ">
+    <img class="image-fluid" style="width:270px" src="../static/img/profile.png" alt="">
+  </div>
+
+</section>
+<!--Adding 2nd page -->
+<section id="skills" class=" container-flex">
+  <div class="d-flex flex-row ">
+    <div class="p-2 ">
+      <h4>
+        <span style="color:#075fe4"> / </span> MY SKILLS
+      </h4>
+      <h1>My extensive list of skills </h1>
+    </div>
+    <div class="p-2 ml-auto ">
+      <strong>button</strong>
+    </div>
+  </div>
+</section>
+<section id="education" class="flex container-fluid">
+  <div class="d-flex flex-row ">
+    <div class="p-2 ">
+      <h4>
+        <span style="color:#075fe4"> / </span> MY EDUCATION
+      </h4>
+      <h1>What i have aceived so far </h1>
+    </div>
+    <div class="p-2 ml-auto ">
+      <strong>button</strong>
+    </div>
+  </div>
+  <div class="container border">
+    <div class="row">
+      <div class="col">
+        <h4>University of The Fraser Valley</h4>
+      </div>
+      <div class="col">Associate Degree in Computer Information Systems </div>
+      <div class="w-100"></div>
+      <div class="col">Abbotsford, BC</div>
+      <div class="col">January 2018 - December 2019</div>
+    </div>
+  </div> Associate Degree in Computer Information Systems January 2018 - December 2019 University of the Fraser Valley Abbotsford, BC • Cumulative GPA 3.56 • Major in Software Development • Relevant courses include Web Publishing, System Hardware Concepts, Principles of Computing, Introduction to Programming, Introduction to Computing, Networking Theory and Applicants, Professional Communication, Object-Oriented Programming, Introduction to Discrete Mathematics
+</section>
+<section id="exp" class="flex container-fluid">
+  <div class="d-flex flex-row ">
+    <div class="p-2 ">
+      <h4>
+        <span style="color:#075fe4"> / </span> MY WORK EXPERIENCE
+      </h4>
+      <h1>Places i have worked at </h1>
+    </div>
+    <div class="p-2 ml-auto ">
+      <strong>button</strong>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-block col-md-inline">
+        <div class="row">
+          <div class="col-lg-5 col text-center ">
+           <img class="rounded-circle fimage " src="../static/img/profile.png" alt="">
+            </div>
+          <div class="col">
+            <h2 class="pt-lg-4">Raman Sandhu</h2>
+            <strong>Web Developer</strong>
+          </div>
+        </div>
+        <div class="row pb-5 pb-md-5 pt-4">
+          <div class="mx-auto">
+          <a href="#">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a href="#">
+            <i class="fa-brands fa-linkedin"></i>
+          </a>
+          <a href="#">
+            <i class="fa-brands fa-github"></i>
+          </a>
+          <a href="#">
+            <i class="fa-brands fa-twitter"></i>
+          </a>
+
+          </div>
+          <div class="d-sm-block">
+            <hr style="height:1px; width:94%;border-width:0;color:grey;background-color:grey">
+
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="row pl-lg-5 ">
+          <div class="col pt-lg-4">
+            <h1>
+              <a class="text-decoration-none" href="#">Get in touch <i style="font-size:2rem ;padding:0 ;color:#075fe4" class="fa-solid fa-arrow-right"></i>
+              </a>
+            </h1>
+          </div>
+          <div class="w-100 pt-md-5"></div>
+          <div class="col pt-3">
+            <h6>EMAIL ME:</h6>
+        <h5>     <a class="text-decoration-none border-bottom border-white" href="mailto:raman64854@gmail.com?subject=feedback">raman64854@gmail.com</a></h5>
+          </div>
+          <div class="col-sm pt-3">
+            <h6>CALL ME: <br>
+            </h6>
+            <h5><a class="text-decoration-none border-bottom border-white" href="tel:7782424848">778-242-4848</a></h5>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr class="mt-5"style="height:1px; width:94%;border-width:0;color:grey;background-color:grey">
+    <div class="container">
+      <div class="row pb-5">
+
+        <div class="col">
+          <nav class="nav">
+          <a class="nav-link active" href="#">Active</a>
+          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link " href="#">Disabled</a>
+          </nav>        </div>
+        <div class="col">
+@Copryright - Developed by Sandhu's Web design 2022</div>
+      </div>
+</div>
+<div class="row">
+
+</div>
+
+  </div>
+</footer>
